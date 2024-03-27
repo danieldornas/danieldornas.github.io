@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap");
+
 .formacao {
   background: #141414;
   color: #fff;
@@ -15,11 +17,12 @@
 .formacao .subtitulo {
   color: #000;
   max-width: 3.5ch;
-  font-family: "Silver Crown";
+  font-family: "Teko";
   font-weight: 100;
+  letter-spacing: -0.275rem;
   font-size: 15.5rem;
-  letter-spacing: 0.875rem;
   max-width: 4ch;
+  width: 250px;
 }
 
 .formacao-texto {
@@ -134,9 +137,10 @@
 
   .formacao .subtitulo {
     color: #fff;
-    font-weight: 100;
-    font-size: 10rem;
-    letter-spacing: normal;
+    font-size: 9rem;
+    letter-spacing: -0.275rem;
+    text-transform: uppercase;
+    white-space: nowrap;
   }
 
   .formacao-texto {

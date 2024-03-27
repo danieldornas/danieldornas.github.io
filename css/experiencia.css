@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap");
+
 .experiencia {
   max-width: 1200px;
   padding: 40px 20px;
@@ -9,10 +11,11 @@
 
 .experiencia .subtitulo {
   color: #e0e0e0;
-  font-family: "Silver Crown";
+  font-family: "Teko";
+  letter-spacing: -5px;
+  letter-spacing: -0.275rem;
   font-weight: 100;
   font-size: 15.5rem;
-  letter-spacing: 0.875rem;
   max-width: 4.5ch;
 }
 
@@ -92,8 +95,9 @@
   }
   .experiencia .subtitulo {
     color: #141414;
-    font-size: 10rem;
-    letter-spacing: normal;
+    font-size: 9rem;
+    letter-spacing: -0.275rem;
+    text-transform: uppercase;
   }
 
   .experiencia-texto {

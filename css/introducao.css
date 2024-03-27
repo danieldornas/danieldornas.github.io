@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap");
+
 .introducao {
   max-width: 1200px;
   padding: 40px 20px;
@@ -9,11 +11,12 @@
 }
 
 .introducao h1 {
-  font-size: 6.5rem;
-  line-height: 1;
+  font-size: 7.5rem;
+  line-height: 0.8;
   margin-bottom: 30px;
-  font-family: "Silver Crown";
-  font-weight: 100;
+  font-family: "Teko";
+  letter-spacing: -5px;
+  font-weight: 300;
   text-transform: uppercase;
   color: #000;
 }
