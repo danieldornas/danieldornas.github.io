@@ -37,8 +37,12 @@
     grid-template-columns: 1fr 1fr;
     gap: 40px;
   }
+  .introducao img {
+    display: none;
+  }
   .introducao h1 {
-    font-size: 4.5rem;
+    font-size: 5rem;
+    letter-spacing: -0.125rem;
   }
 }
 
